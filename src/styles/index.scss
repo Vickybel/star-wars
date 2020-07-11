@@ -1,0 +1,122 @@
+/* 
+    General Styles
+*/
+
+
+.vitrina{
+    // background-color: black;
+    height: 333px;
+    min-height: 333px;
+    overflow-y: hidden; 
+    overflow-x: auto;
+    width: 1000px;
+    padding: 10px;
+    white-space: nowrap;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.scroloso{
+    display: block ruby;
+}
+
+.logo{
+    max-width: 100px;
+    margin-left: 160px
+}
+
+.cardimg{
+    height: 90px;
+    widows: 180px;
+}
+
+.micard{
+    
+    width: 270px;
+    margin: 0 10px 10px 0;
+    padding: 0;
+    display: inline-flex;
+}
+
+.nombre{
+    font-size: 50px;
+    margin-left: 180px
+    
+}
+
+.color{
+    color: red;
+}
+.imgSingle{
+    margin-top: 69px;
+    height: 500px;
+    width: 450px;
+}
+.tittleSingle{
+    text-align: center;
+    margin-top: 57px;
+}
+.descrip{
+    text-align: center;
+    height: 600px;
+    width: 508px;
+    font-size: 38px;
+    margin-left: 42px;
+    margin-bottom: 0px;
+}
+.trash{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+}
+.trash:hover{
+    background: rgb(175, 174, 174);
+}
+
+.favs{
+    display: block ruby;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.info{
+font-size: xx-large;
+}
+.card-deck .card{
+ display: inherit;
+}
+
+.page{
+    min-width: 300px;
+    min-height: 600px
+}
+
+.heart{
+    margin-left: 80px;
+}
+.heart:active{
+    background-color: rgb(218, 196, 1)
+}
+
+.welcome{
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+.galery{
+    padding-left: 135px;
+}
+
+.psup{
+    display: inline-flex;
+    height: 615px;
+    width: 100%;
+    margin-left: 8%;
+}
+.next{
+    margin-left: 30%;
+}
+.previous{
+    margin-left: 21.3%;
+}
