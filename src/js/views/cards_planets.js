@@ -37,7 +37,6 @@ const CardsPlanets = () => {
 										}}>
 										<i className="far fa-heart" />
 									</button>
-									{/* <button><i class="fa fa-heart"/></button>*/}
 								</div>
 							</div>
 						</>
